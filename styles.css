@@ -1,0 +1,67 @@
+    body{
+        color: rgb(37, 2, 2);
+          
+        ;
+    }
+    .r{
+        color: white;
+        background-color: red;
+        border: none;
+        border-radius: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 20px;
+        padding-left: 20px;
+        cursor: pointer;
+    }
+
+    .square{
+        width: 100px;
+        height: 100px;
+        background-color: black;
+    }
+
+    .hey{
+        color: rgb(106, 160, 25);
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    .hey:hover{
+        color: rgb(158, 23, 165);
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    p{
+        color: rgba(0,0, 255, 0.7)
+       
+    }
+
+    .shape{
+        width: 200px;
+        height: 200px;
+        background-color: red;
+        color: transparent;
+        color: black;
+        padding-left: 20px; 
+        padding-top: 20px;
+    }
+    
+    body{
+        width: 100%;
+        height: 100vh;
+        background-color: bisque;
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ThmEPGuyeUTVnzx2mGIB4zQela_gGoUhPf83hd7SFgDdcZz1kQsJqqvq_brq86K_5YM&usqp=CAU);
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* background-position: top right;
+        background-position: left bottom; */
+    }
+
+    .a{
+        margin-top: 50px;
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }

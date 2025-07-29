@@ -1,0 +1,13 @@
+.hero-box{
+    color: rgb(251, 248, 248);
+    background-color: rgb(67, 67, 67);
+    height: 200px;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 100px;
+  }
+  
+  .hero-text{
+    padding-top: 15px;
+    padding-left: 15px;
+  }
