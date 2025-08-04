@@ -51,11 +51,7 @@
         width: 100%;
         height: 100vh;
         background-color: bisque;
-        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ThmEPGuyeUTVnzx2mGIB4zQela_gGoUhPf83hd7SFgDdcZz1kQsJqqvq_brq86K_5YM&usqp=CAU);
-        background-repeat: no-repeat;
-        background-size: cover;
-        /* background-position: top right;
-        background-position: left bottom; */
+        
     }
 
     .a{
