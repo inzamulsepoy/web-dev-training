@@ -15,37 +15,12 @@
         cursor: pointer;
     }
 
-    .square{
-        width: 100px;
-        height: 100px;
-        background-color: black;
-    }
-
-    .hey{
-        color: rgb(106, 160, 25);
-        font-family: 'Courier New', Courier, monospace;
-    }
-
-    .hey:hover{
-        color: rgb(158, 23, 165);
-        font-weight: bold;
-        cursor: pointer;
-    }
-
+    
     p{
         color: rgba(0,0, 255, 0.7)
        
     }
 
-    .shape{
-        width: 200px;
-        height: 200px;
-        background-color: red;
-        color: transparent;
-        color: black;
-        padding-left: 20px; 
-        padding-top: 20px;
-    }
     
     body{
         width: 100%;
@@ -61,3 +36,12 @@
     html {
         scroll-behavior: smooth;
     }
+
+   .s{
+      padding: 10px 20px;
+        border-radius: 10px;
+        background-color: rgb(16, 90, 175);
+        color: rgb(255, 255, 255);
+        border: none;
+        
+   }
